@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cwldjson</name>
+	<displayName><![CDATA[Microformats LD+JSON]]></displayName>
+	<version><![CDATA[1.1.2]]></version>
+	<description><![CDATA[Create Organization and Product LD+JSON info formtat.]]></description>
+	<author><![CDATA[creamiweb.es]]></author>
+	<tab><![CDATA[seo]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
